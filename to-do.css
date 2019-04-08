@@ -1,0 +1,31 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: darkmagenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 2.2em;
+}
+
+input, #add, #clear {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.4em;
+}
+
+div {
+    text-align: center;
+}
+
+#add, #clear {
+    background-color: lightcoral;
+    color: darkslategray;
+}
+
+ul {
+    text-align: center;
+    font-size: 1.2em;
+}
+
