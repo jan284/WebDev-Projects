@@ -1,0 +1,13 @@
+div {
+    text-align:center;
+    margin-top: 10em;
+}
+
+#image {
+    height: 20em;
+    width: 24em;
+}
+
+button {
+    margin-bottom: 4em;
+}
